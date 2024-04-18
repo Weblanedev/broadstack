@@ -179,7 +179,7 @@ const Contact = () => {
                 Mail Us
               </h4>
               <p className="text-orange-500 leading-[16px]">
-              support@broadstack.com
+              support@broadstack.ng
               </p>
             </div>
           </div>
