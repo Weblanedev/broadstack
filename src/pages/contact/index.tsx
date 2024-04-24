@@ -190,7 +190,7 @@ const Contact = () => {
                 Address
               </h4>
               <p className="text-orange-500 leading-normal">
-                Lagos, Nigeira
+       51 Modupe Young Str, Ajah, Lekki, Lagos
               </p>
             </div>
           </div>
